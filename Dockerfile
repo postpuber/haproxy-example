@@ -1,4 +1,4 @@
-FROM       alpine:3.5
+FROM       alpine:3.17
 MAINTAINER Yosuke Yamamoto "yosuke.yamamoto@bm-sms.jp"
 
 ## Docker Agument Setting
